@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 <!---LeetCode Topics End-->
