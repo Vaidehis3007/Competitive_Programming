@@ -16,5 +16,6 @@
 ## Array
 |  |
 | ------- |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 <!---LeetCode Topics End-->
