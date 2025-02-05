@@ -18,4 +18,16 @@
 | ------- |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
