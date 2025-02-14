@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/0002-add-two-numbers) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2448-count-number-of-bad-pairs) |
 ## Recursion
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -55,6 +57,7 @@
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -75,4 +78,12 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
