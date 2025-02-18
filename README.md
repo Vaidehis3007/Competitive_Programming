@@ -102,4 +102,8 @@
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2456-construct-smallest-number-from-di-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
