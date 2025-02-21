@@ -33,6 +33,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2434-design-a-number-container-system) |
@@ -65,6 +66,7 @@
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -114,4 +116,20 @@
 | [1258-article-views-i](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
