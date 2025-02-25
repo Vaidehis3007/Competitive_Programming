@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/0002-add-two-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
@@ -21,6 +22,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2448-count-number-of-bad-pairs) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2564-most-profitable-path-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
