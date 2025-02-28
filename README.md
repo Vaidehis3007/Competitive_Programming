@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1170-shortest-common-supersequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2107-find-unique-binary-string) |
@@ -147,6 +148,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
