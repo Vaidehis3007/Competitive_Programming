@@ -28,6 +28,7 @@
 | [2107-find-unique-binary-string](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3447-clear-digits) |
@@ -151,4 +153,8 @@
 | [1170-shortest-common-supersequence](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
