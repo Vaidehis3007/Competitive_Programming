@@ -161,6 +161,7 @@
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming
 |  |
@@ -168,6 +169,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,4 +190,12 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
