@@ -39,6 +39,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vaidehis3007/Competitive_Programming/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
